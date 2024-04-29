@@ -1,2 +1,2 @@
-# senior_design
-Battery Swapping Software
+# ME 597
+Battery SOH Prediction/Dashboard for battery swapping software
